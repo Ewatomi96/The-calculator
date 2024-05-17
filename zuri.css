@@ -1,0 +1,28 @@
+.calculator {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  table {
+    margin: 20px auto;
+  }
+  
+  button {
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    margin: 5px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    height: 80px;
+    font-size: 30px;
+    text-align: right;
+  }
+  
+  #equals {
+    background-color: #4caf50; /* Green */
+    color: white;
+  }
